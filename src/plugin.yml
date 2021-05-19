@@ -1,0 +1,7 @@
+name: dHG
+author: Dudumaax
+version: 1.0
+main: dev.dmaax.hg.SpigotMain
+description: A simple HG plugin
+commands:
+  feast:
